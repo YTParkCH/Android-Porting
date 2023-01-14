@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf-m",
-		"player2": "bf-soul",
+		"player1": "bf",
+		"player2": "dad",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -4496,7 +4496,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "THISISSTONE",
+		"gfVersion": "gf",
 		"events": [
 			[
 				11100,
@@ -4640,10 +4640,10 @@
 			]
 		],
 		"player3": null,
-		"song": "Memory-Leak",
+		"song": "memory-leak",
 		"validScore": true,
 		"needsVoices": false,
-		"stage": "memory",
+		"stage": "stage",
 		"speed": 3,
 		"bpm": 200
 	}
